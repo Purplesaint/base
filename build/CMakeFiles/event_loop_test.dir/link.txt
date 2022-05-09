@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-9  -g  -rdynamic CMakeFiles/event_loop_test.dir/base/event_loop_test.cpp.o  -o event_loop_test  libbase.a lib/libgtestd.a lib/libgtest_maind.a -lpthread -lssl -lcrypto lib/libgtestd.a -lpthread 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbase.a  CMakeFiles/base.dir/base/inet_address.cpp.o CMakeFiles/base.dir/base/socket.cpp.o CMakeFiles/base.dir/base/event_loop.cpp.o
+/usr/bin/ranlib libbase.a

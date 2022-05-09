@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-9  -g  -rdynamic CMakeFiles/buffer_test.dir/base/buffer_test.cpp.o  -o buffer_test  libbase.a lib/libgtestd.a lib/libgtest_maind.a -lpthread -lssl -lcrypto lib/libgtestd.a -lpthread 
